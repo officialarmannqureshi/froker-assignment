@@ -48,6 +48,11 @@ Ensure you have the following installed:
 - **Blogs**: Browse through the blog posts.
 - **Discover Froker**: Explore additional information about Froker.
 
+## Screenshot
+
+![screencapture-127-0-0-1-3000-2024-07-21-03_50_09](https://github.com/user-attachments/assets/a0c0c598-f29d-400a-b023-b0e088e25032)
+
+
 
 
 
