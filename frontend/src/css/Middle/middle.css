@@ -38,6 +38,7 @@
   font-size: 32px;
   font-weight: 400;
   line-height: 30px;
+  color: #fd7a33;
 }
 
 .froker-blog {
@@ -383,7 +384,7 @@
   }
 
   ul {
-    outline: 1px solid #d90416 !important;
+    
   }
   menu,
   ol,

@@ -25,7 +25,7 @@ const Body1 = () => {
             <a
               className="boox1"
               href="/blog/5"
-              style={{ outline: "rgb(255, 0, 0) dashed 1px" }}
+              style={{ }}
             >
               <div className="subboox">
                 <img
